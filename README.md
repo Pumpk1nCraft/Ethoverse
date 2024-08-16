@@ -1,6 +1,6 @@
 Ethoverse is a game based on Ethobot content, made for Ethobot community.
 
-             LICENSE:
+> LICENSE:
 
 Copyright 2024 (c) Perker Studios, Ethobot
 All Rights Reserved.
