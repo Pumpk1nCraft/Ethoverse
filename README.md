@@ -1,6 +1,5 @@
 Ethoverse is a game based on Ethobot content, made for Ethobot community.
 
-===================================
              LICENSE:
 ===================================
 
