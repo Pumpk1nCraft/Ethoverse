@@ -14,6 +14,6 @@ Discord server of Ethobot (Game updates in #share-fan-art under name "Ethoverse 
 
 > LICENSE:
 
-MIT License
+Ethoverse License Agreement
 
 Copyright 2024 (c) Perker Studios
