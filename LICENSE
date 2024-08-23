@@ -1,10 +1,45 @@
+Ethoverse
 Copyright 2024 (c) Perker Studios, Ethobot
 All Rights Reserved.
 
-Do NOT re-distribute.
+Ethoverse License Agreement
+Effective Date: 8/23/24
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+This License Agreement ("Agreement") is a legal agreement between you ("Licensee" or "User") and Perker Studios ("Licensor"), the developer of Ethoverse ("the Game"). By downloading, installing, or using the Game, you agree to be bound by the terms of this Agreement.
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+1. Grant of License
+Licensor grants the Licensee a non-exclusive, non-transferable, and revocable license to:
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Install and use the Game for personal entertainment purposes.
+Reverse-engineer the Game solely for the purpose of creating mods and add-ons.
+Use the Game as a library or framework to develop mods and add-ons.
+2. Restrictions
+The Licensee is subject to the following restrictions:
+
+No Redistribution: The Licensee may not redistribute, share, or otherwise make the original Game or its source code available to third parties in any form, whether modified or unmodified.
+No Source Code Modification: The Licensee is prohibited from modifying, altering, or adapting the original source code of the Game. This includes any portion of the code, including but not limited to reverse-engineered components.
+No Commercial Use: The Licensee may not use the Game or any derived works for commercial purposes without the explicit written consent of the Licensor.
+3. Modding and Add-ons
+Creation and Distribution: The Licensee is permitted to create mods and add-ons for the Game. These mods and add-ons must be distributed separately from the original Game and must not include any part of the original Game's source code.
+Attribution: All distributed mods and add-ons must include above copyright notice.
+No Infringement: Mods and add-ons must not infringe on the intellectual property rights of the Licensor or any third party.
+4. Intellectual Property
+Ownership: The Game, including all intellectual property rights, remains the exclusive property of the Licensor. This Agreement does not grant the Licensee any ownership rights to the Game or any of its components.
+Modding Tools: If the Licensor provides any tools or SDKs for modding, these tools are also subject to the terms of this Agreement.
+5. Termination
+This Agreement is effective until terminated. The Licensor may terminate this Agreement at any time if the Licensee fails to comply with any of its terms. Upon termination, the Licensee must cease all use of the Game and destroy all copies of the Game in their possession.
+
+6. Disclaimer of Warranty
+The Game is provided "as is" without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+7. Limitation of Liability
+In no event shall the Licensor be liable for any damages arising out of or in connection with the use or inability to use the Game, including but not limited to direct, indirect, incidental, or consequential damages.
+
+8. Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the Slovak Republic, without regard to its conflict of law principles.
+
+9. Severability
+If any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+10. Entire Agreement
+This Agreement constitutes the entire understanding between the parties with respect to the subject matter hereof and supersedes all prior agreements, understandings, and communications, whether written or oral.
